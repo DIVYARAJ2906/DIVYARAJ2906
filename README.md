@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on *Full Stack Projects*
 
-- 🌱 I’m currently learning *Devops*
+- 🌱 I’m currently learning *Next.js*
 
 - 👯 I’m looking to collaborate on *Full Stack Projects*
 
@@ -14,7 +14,7 @@
 
 <h1 align="left">🌐 Socials:</h1>
 <p align="left">
-<a href="https://twitter.com/sandeepswain06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sandeepswain06" height="30" width="40" /></a>
+<a href="https://twitter.com/DIVYARAJSINH_29?t=60hFneL3AwpFdm7N-PtO5g&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/DIVYARAJSINH_29?t=60hFneL3AwpFdm7N-PtO5g&s=08" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/vala-divyarajsinh-g-011b64250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vala-divyarajsinh-g-011b64250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
 </p>
 
