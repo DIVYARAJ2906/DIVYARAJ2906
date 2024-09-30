@@ -15,7 +15,7 @@
 <h1 align="left">🌐 Socials:</h1>
 <p align="left">
 <a href="https://twitter.com/sandeepswain06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sandeepswain06" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sandeep-swain-845b53249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeep-swain-845b53249" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vala-divyarajsinh-g-011b64250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vala-divyarajsinh-g-011b64250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
 </p>
 
 <h1 align="left">💻 Tech Stacks:</h1>
